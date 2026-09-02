@@ -51,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0268-missing-number) |
 ## Pigeonhole Principle
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
