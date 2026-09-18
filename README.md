@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0268-missing-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array) |
@@ -85,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ShubhamDubey-14/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
